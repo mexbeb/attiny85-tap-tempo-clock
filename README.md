@@ -26,7 +26,7 @@ This is the cheapest (less than 5 euros in components) and smallest (building it
 
 Solder everything as reported in the schematic, upload the sketch through the Arduino IDE and enjoy!
 
-You can upload the Gerber zip to JLCPCB and make your own PCB just by ordering them.
+You can upload the Gerber zip to JLCPCB and make your own PCBs just by ordering them.
 
 ## DISCLAIMER
 The circuit is not perfect, it's as simple as it can be: there's no polarity protection and the switch is not debouncing well sometimes, but you know, it's DIY and really cheap and still does the job :D

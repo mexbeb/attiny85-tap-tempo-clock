@@ -31,5 +31,5 @@ Solder everything as reported in the schematic, upload the sketch through the Ar
 You can upload the Gerber zip to JLCPCB and make your own PCBs just by ordering them.
 
 ## DISCLAIMER
-The circuit is not perfect, it's as simple as it can be: there's no polarity protection and the switch is not debouncing well sometimes, but you know, it's DIY and really cheap and still does the job :D
+The circuit is not perfect, it's as simple as it can be: it uses the onboard voltage regulator (the 78L05 which has 7-30V input range) there's no polarity protection and the switch is not debouncing well sometimes, but you know, it's DIY and really cheap and still does the job :D
 

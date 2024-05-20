@@ -5,6 +5,8 @@ A simple clock with tap tempo made with an ATTiny85 board, useful for eurorack s
 
 This is the cheapest (less than 5 euros in components) and smallest (building it with the PCB can be mounted in a 2HP panel) clock module ever made.
 
+Demo video here: https://youtube.com/shorts/PZ5HyXFXe1c
+
 ### Features:
 - BPM from 5 to 400 (can be edited in the code)
 - One clock output and one auxiliary output
